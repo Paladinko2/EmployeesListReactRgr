@@ -1,0 +1,10 @@
+.addForm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.addForm>button,
+input {
+    margin: 5px;
+}
